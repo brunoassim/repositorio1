@@ -4,7 +4,7 @@ public class Baleia extends Mamifero{
 
 	@Override
 	public void emitirSom() {
-		System.out.println("uwawu");
+		System.out.println("baleia");
 		// TODO Auto-generated method stub
 		
 	}
