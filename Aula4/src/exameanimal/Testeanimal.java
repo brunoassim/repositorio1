@@ -5,8 +5,11 @@ public class Testeanimal {
 		Jacare jacare= new Jacare();
 		Baleia baleia=new Baleia();
 		Veterinario vet=new Veterinario();
+		Humano humano=new Humano();
 		vet.examinar(jacare);
 		vet.examinar(baleia);
+		//vet.examinar(vet);
+		//vet.examinar(humano);
 	}
 
 }

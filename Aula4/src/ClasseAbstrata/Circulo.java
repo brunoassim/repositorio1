@@ -1,5 +1,5 @@
-package ClasseAbstrata;
 
-public class Circulo {
+
+public class Circulo implements AreaCalculavel {
 
 }

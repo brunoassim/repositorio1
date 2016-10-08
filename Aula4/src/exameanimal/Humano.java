@@ -1,10 +1,10 @@
 package exameanimal;
 
-public class Jacare extends Reptil implements Examinavel {
+public class Humano extends Mamifero {
 
 	@Override
 	public void emitirSom() {
-		System.out.println("som do jacare");
+		System.out.println("som da humano");
 		// TODO Auto-generated method stub
 		
 	}
